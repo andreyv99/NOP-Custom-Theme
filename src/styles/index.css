@@ -1,0 +1,22 @@
+:root {
+  --main-background-color: green;
+  --secondary-background-color: red;
+  --first-font: Arial;
+}
+
+.first {
+  width: 100px;
+  height: 100px;
+  background-color: var(--main-background-color);
+}
+
+.second {
+  width: 100px;
+  height: 100px;
+  background-color: var(--secondary-background-color);
+}
+
+p {
+  font-size: 20px;
+  font-family: var(--first-font)
+}
