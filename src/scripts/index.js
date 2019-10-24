@@ -5,9 +5,9 @@ cssVars({
  
   variables: {
       '--main-background-color': 'black',
-      '--secondary-background-color': 'green'
+      '--secondary-background-color': 'green',
+      '--first-font': 'Arial'
   },
-  // updateDOM: true
 
 });
 
